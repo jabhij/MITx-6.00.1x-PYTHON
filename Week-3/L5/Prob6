@@ -6,6 +6,7 @@ def lenIter(aStr):
     '''
     # Iterative Function
     count = 0
+    
     for char in aStr:
        count += 1
        
