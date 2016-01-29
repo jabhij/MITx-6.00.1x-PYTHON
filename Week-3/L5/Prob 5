@@ -1,6 +1,7 @@
 # Declaring a Function
 def gcdRecur(a, b):
-
+   
+    # Here comes the Recursive call
     # The Base Case
     if (b == 0):
        return a
