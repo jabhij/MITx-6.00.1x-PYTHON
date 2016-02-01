@@ -13,7 +13,7 @@ def isIn(char, aStr):
    if (char == midChar):
       return True
    
-  # Recuring Call 
+  # Recuring Call .
    elif (char < midChar):
       return isIn(char, aStr[:mid])
 
