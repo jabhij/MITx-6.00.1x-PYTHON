@@ -1,3 +1,5 @@
+""" The HANGMAN game -- For Fun """
+
 def playGame(wordList):
     """
     Allow the user to play an arbitrary number of hands.
