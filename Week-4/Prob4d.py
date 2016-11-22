@@ -5,5 +5,6 @@ def calculateHandlen(hand):
     hand: dictionary (string int)
     returns: integer
     """
+    
     leng = sum(hand.values())
     return leng
